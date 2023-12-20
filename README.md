@@ -1,4 +1,4 @@
-# AppList
+# About
 
-* [TikVideoCast](https://apps.apple.com/us/app/id1570128334)
+* [Policy](https://nhungk97.github.io/policy.html)
 
